@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+button {
+	border: none;
+	background: #cccc;
+	padding: 10px;
+	margin: 0 5px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+table, th, td {
+	border: 1px solid #ccc;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td {
+	padding: 20px;
+}
